@@ -1,4 +1,5 @@
 my name is HAMZA 
 and i am a new leaner in the odin project 
 everything is going right till now 
-thank for helping us learn web-dev
+thank for helping us learn wev
+This is my first project.
